@@ -7,6 +7,7 @@ This is a real Zat Gun (Zat'nik'tel), from the Stargate Universe.
 
 One shot stuns. Two shots kills. Rumors about the third shot are greatly exaggerated.
 
+[**Steam Workshop link**](https://steamcommunity.com/sharedfiles/filedetails/?id=2881581785)
 Demo Video: https://youtu.be/BpNEuO6ziRQ
 
 This is the perfect weapon for penal colonies, mental breaks etc. 
