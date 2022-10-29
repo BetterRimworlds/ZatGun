@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ResearchProjectDef>
+		<defName>Stargate_Goauld_Weapons</defName>
+		<label>Goa'uld Weapons</label>
+		<description>Weapons used by the Goa'uld and their Jaffa armies.</description>
+		<baseCost>2500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<researchViewX>1</researchViewX>
+		<researchViewY>0</researchViewY>
+		<tab>Stargate</tab>
+	</ResearchProjectDef>
+</Defs>

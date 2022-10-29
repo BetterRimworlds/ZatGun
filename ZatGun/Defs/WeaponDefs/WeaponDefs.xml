@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ThingDef ParentName="BaseHumanMakeableGun">
+        <defName>Stargate_Zat_Gun</defName>
+        <label>Zat'nik'tel</label>
+        <description>Few weapons can claim to be truly Goa'uld in origin, and the Zat'nik'tel is one of them. One shot stuns, two shots kill. Rumors of a third shot function are simple misinformation. Humans of the Tau'ri affectionately call it a "Zat gun". The frame is relatively simple, but the small power core is a closely-guarded Goa'uld  secret.</description>
+        <graphicData>
+            <texPath>Weapons/Zat/zat_gun</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+        </graphicData>
+        <uiIconScale>1.4</uiIconScale>
+        <soundInteract>Interact_ChargeRifle</soundInteract>
+        <statBases>
+            <WorkToMake>4000</WorkToMake>
+            <Mass>1.2</Mass>
+            <AccuracyTouch>0.70</AccuracyTouch>
+            <AccuracyShort>0.75</AccuracyShort>
+            <AccuracyMedium>0.55</AccuracyMedium>
+            <AccuracyLong>0.50</AccuracyLong>
+            <RangedWeapon_Cooldown>0.9</RangedWeapon_Cooldown>
+        </statBases>
+        <weaponTags>
+            <li>SGR_Jaffa_Weapon</li>
+        </weaponTags>
+        <costList>
+            <Steel>30</Steel>
+            <ComponentIndustrial>2</ComponentIndustrial>
+        </costList>
+        <recipeMaker>
+            <researchPrerequisite>Stargate_Goauld_Weapons</researchPrerequisite>
+            <skillRequirements>
+                <Crafting>7</Crafting>
+            </skillRequirements>
+            <recipeUsers>
+                <li>FabricationBench</li>
+            </recipeUsers>
+        </recipeMaker>
+        <verbs>
+            <li>
+                <verbClass>Verb_Shoot</verbClass>
+                <hasStandardCommand>true</hasStandardCommand>
+                <defaultProjectile>SGR_Zat_Blast</defaultProjectile>
+                <warmupTime>0.7</warmupTime>
+                <range>15.9</range>
+                <soundCast>SGR_Shot_Zat_Gun</soundCast>
+                <soundCastTail>GunTail_Light</soundCastTail>
+                <muzzleFlashScale>9</muzzleFlashScale>
+            </li>
+        </verbs>
+        <tools>
+            <li>
+                <label>butt</label>
+                <capacities>
+                    <li>Blunt</li>
+                </capacities>
+                <power>9</power>
+                <cooldownTime>2</cooldownTime>
+            </li>
+            <li>
+                <label>zat</label>
+                <capacities>
+                    <li>Blunt</li>
+                    <li>Poke</li>
+                </capacities>
+                <power>9</power>
+                <cooldownTime>2</cooldownTime>
+            </li>
+        </tools>
+    </ThingDef>
+
+    <ThingDef ParentName="BaseBullet">
+        <defName>SGR_Zat_Blast</defName>
+        <label>Zat stun</label>
+        <thingClass>BetterRimworlds.ZatGun.Projectile_ZatBlast</thingClass>
+        <graphicData>
+            <texPath>Projectile/zat_blast</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+        </graphicData>
+        <projectile>
+                <flyOverhead>false</flyOverhead>
+                <damageDef>Bullet</damageDef>
+                <damageAmountBase>8</damageAmountBase>
+                <stoppingPower>2</stoppingPower>
+                <armorPenetrationBase>0.85</armorPenetrationBase>
+                <speed>75</speed>
+        </projectile>
+    </ThingDef>
+
+    <!--___ Intar Bullet ___-->
+
+</Defs>
