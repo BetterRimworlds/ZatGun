@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/TraderKindDef[defName="Caravan_Outlander_CombatSupplier"]/stockGenerators</xpath>
+        <value>
+            <li Class="StockGenerator_SingleDef">
+                <thingDef>Stargate_Zat_Gun</thingDef>
+                <countRange>
+                    <min>1</min>
+                    <max>5</max>
+                </countRange>
+            </li>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/TraderKindDef[defName="Orbital_CombatSupplier"]/stockGenerators</xpath>
+        <value>
+            <li Class="StockGenerator_SingleDef">
+                <thingDef>Stargate_Zat_Gun</thingDef>
+                <countRange>
+                    <min>-2</min>
+                    <max>6</max>
+                </countRange>
+            </li>
+        </value>
+    </Operation>
+</Patch>
