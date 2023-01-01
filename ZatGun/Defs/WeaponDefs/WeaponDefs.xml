@@ -11,6 +11,7 @@
         <uiIconScale>1.4</uiIconScale>
         <soundInteract>Interact_ChargeRifle</soundInteract>
         <statBases>
+            <MarketValue>1800</MarketValue>
             <WorkToMake>4000</WorkToMake>
             <Mass>1.2</Mass>
             <AccuracyTouch>0.70</AccuracyTouch>
