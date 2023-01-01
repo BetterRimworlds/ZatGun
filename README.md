@@ -32,6 +32,7 @@ https://github.com/BetterRimworlds/CryoRegenesis
 
 v1.1.0: 2023-01-01
 * Added a 15% chance of Catatonia for everyonne, 100% for the psychically-sensitive.
+* Added a packager script for creating the releaseables.
 
 v1.0.0: 2022-10-29
 * Initial Release
