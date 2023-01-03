@@ -28,7 +28,7 @@
             <ComponentIndustrial>2</ComponentIndustrial>
         </costList>
         <recipeMaker>
-            <researchPrerequisite>Stargate_Goauld_Weapons</researchPrerequisite>
+            <!--<researchPrerequisite>Stargate_Goauld_Weapons</researchPrerequisite>-->
             <skillRequirements>
                 <Crafting>7</Crafting>
             </skillRequirements>

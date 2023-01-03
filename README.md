@@ -30,6 +30,9 @@ https://github.com/BetterRimworlds/CryoRegenesis
 
 ## Change Log
 
+v1.1.1: 2023-01-02
+* Fixed the mod.
+
 v1.1.0: 2023-01-01
 * Added a 15% chance of Catatonia for everyonne, 100% for the psychically-sensitive.
 * Added the Zat Gun to the Combat Traders.
