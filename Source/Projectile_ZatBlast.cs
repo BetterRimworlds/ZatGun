@@ -47,7 +47,7 @@ namespace BetterRimworlds.ZatGun
                 if (psychicallyShocked != null)
                 {
                     // If the pawn has already been shot with the zat gun, the second shot is fatal.
-                    Messages.Message("Killing " + hitPawn.Name.ToStringFull + " because of 2nd zat blast.", MessageTypeDefOf.NegativeEvent);
+                    Messages.Message("Killing " + hitPawn.Name + " because of 2nd zat blast.", MessageTypeDefOf.NegativeEvent);
                     hitPawn.Kill(null);
                 }
                 else

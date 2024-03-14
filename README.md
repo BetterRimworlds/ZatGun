@@ -38,6 +38,7 @@ Non Steam Downloads and GitHub Repositories of this mod is available at: https:/
 
 v1.2.0: 2023-03-14
 * Upgraded to Rimworld v1.5.
+* Fixed a bug where the 2nd zatblast on animals caused a NullException.
 
 v1.1.1: 2023-01-02
 * Fixed the mod.
