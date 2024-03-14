@@ -10,7 +10,7 @@ namespace BetterRimworlds.ZatGun
         
         #region Overrides
 
-        #if RIMWORLD14
+        #if RIMWORLD14 || RIMWORLD15
         protected override void Impact(Thing hitThing, bool blockedByShield = false)
         {
             base.Impact(hitThing, false);

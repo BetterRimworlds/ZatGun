@@ -20,15 +20,24 @@ The risk of death is the equivalent to a single charge rifle bullet hitting them
 
 Non Steam Downloads and GitHub Repositories of this mod is available at: https://github.com/BetterRimworlds/ZatGun/
 
-** Other BetterRimworlds Mods **
+## Better Rimworlds Stargate Mods
 
-* **Stargate:** An actual working Stargate for Rimworld: https://github.com/BetterRimworlds/Stargate
-* **Archotech ZPM:** Unbelievable power is now within reach: https://github.com/BetterRimworlds/ZPM
-* **Cryoregenesis** (modeled after the Goa'uld Sarcophagus): Want your pawns to live forever young and healthy? Check out BetterRimworld's Cryogenesis:
-https://github.com/BetterRimworlds/CryoRegenesis
+1. [**Stargate**](https://github.com/BetterRimworlds/Stargate) — Send Pawns and Items to other Savegames on the same computer.
+2. [**CryoRegenesis**](https://github.com/BetterRimworlds/CryoRegenesis) — Forever Young Glittertech (a Rimworld take on the Goa'uld Sarcophagus).
+3. [**ZPM**](https://github.com/BetterRimworlds/ZPM) — Build your own or buy an Archotech Zero-Point Module (Stargate Atlantis).
+4. [**ZatGun**](https://github.com/BetterRimworlds/ZatGun) — An actual Zat'nik'tel, from the Stargate Universe. One shot stuns. Two shots kills.
+
+## Other Better Rimworlds Mods
+
+1. [**WakeUp Implant**](https://github.com/BetterRimworlds/WakeUpImplant) — Installs a brain implant that gives the effects of a permanent wakeup high.
+2. [**Uplifted Animals**](https://github.com/BetterRimworlds/UpliftedAnimals) — Upgrade animals to sentience and they can help more around the base.
+2. [**Savegame Shrinker**]() — Cleans up unnecessary data from long-running Savegames.
 
 
 ## Change Log
+
+v1.2.0: 2023-03-14
+* Upgraded to Rimworld v1.5.
 
 v1.1.1: 2023-01-02
 * Fixed the mod.
