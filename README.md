@@ -23,9 +23,10 @@ Non Steam Downloads and GitHub Repositories of this mod is available at: https:/
 ## Better Rimworlds Stargate Mods
 
 1. [**Stargate**](https://github.com/BetterRimworlds/Stargate) — Send Pawns and Items to other Savegames on the same computer.
-2. [**CryoRegenesis**](https://github.com/BetterRimworlds/CryoRegenesis) — Forever Young Glittertech (a Rimworld take on the Goa'uld Sarcophagus).
-3. [**ZPM**](https://github.com/BetterRimworlds/ZPM) — Build your own or buy an Archotech Zero-Point Module (Stargate Atlantis).
-4. [**ZatGun**](https://github.com/BetterRimworlds/ZatGun) — An actual Zat'nik'tel, from the Stargate Universe. One shot stuns. Two shots kills.
+2. [**DeMaterializer**](https://github.com/BetterRimworlds/DeMaterializer) — Teleport and Store pawns and things in quantum storage.
+3. [**CryoRegenesis**](https://github.com/BetterRimworlds/CryoRegenesis) — Forever Young Glittertech (a Rimworld take on the Goa'uld Sarcophagus).
+4. [**ZPM**](https://github.com/BetterRimworlds/ZPM) — Build your own or buy an Archotech Zero-Point Module (Stargate Atlantis).
+5. [**ZatGun**](https://github.com/BetterRimworlds/ZatGun) — An actual Zat'nik'tel, from the Stargate Universe. One shot stuns. Two shots kills.
 
 ## Other Better Rimworlds Mods
 
@@ -39,6 +40,7 @@ Non Steam Downloads and GitHub Repositories of this mod is available at: https:/
 v1.2.0: 2023-03-14
 * Upgraded to Rimworld v1.5.
 * Fixed a bug where the 2nd zatblast on animals caused a NullException.
+* Fixed the ZatBlast sound.
 
 v1.1.1: 2023-01-02
 * Fixed the mod.

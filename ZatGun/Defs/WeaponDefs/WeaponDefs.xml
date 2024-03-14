@@ -41,7 +41,7 @@
                 <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>SGR_Zat_Blast</defaultProjectile>
-                <warmupTime>10</warmupTime>
+                <warmupTime>5</warmupTime>
                 <range>16.0</range>
                 <soundCast>Stargate_Shot_Zat_Gun</soundCast>
                 <!-- <soundCast>Shot_SniperRifle</soundCast> -->
