@@ -41,8 +41,8 @@
                 <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>SGR_Zat_Blast</defaultProjectile>
-                <warmupTime>5</warmupTime>
-                <range>16.0</range>
+                <warmupTime>1.2</warmupTime>
+                <range>18.0</range>
                 <soundCast>Stargate_Shot_Zat_Gun</soundCast>
                 <!-- <soundCast>Shot_SniperRifle</soundCast> -->
                 <soundCastTail>GunTail_Light</soundCastTail>
@@ -81,7 +81,7 @@
         <projectile>
                 <flyOverhead>false</flyOverhead>
                 <damageDef>Bullet</damageDef>
-                <damageAmountBase>8</damageAmountBase>
+                <damageAmountBase>5</damageAmountBase>
                 <stoppingPower>2</stoppingPower>
                 <armorPenetrationBase>0.85</armorPenetrationBase>
                 <speed>75</speed>

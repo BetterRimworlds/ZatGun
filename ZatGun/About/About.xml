@@ -14,7 +14,11 @@
         
 This is the perfect weapon for penal colonies, mental breaks etc. The pawn will be downed for several seconds (with minimal injuries), easily allowing capture. The risk of death is the equivalent to a single charge rifle bullet hitting them.
 
-v1.2.0: 2023-03-14 
+v1.2.1: 2024-04-02
+
+* Reduced the damage and warmup time by quite a bit.
+
+v1.2.0: 2024-03-14
   • Upgraded to Rimworld v1.5. 
   • Fixed a bug where the 2nd zatblast on animals caused a NullException. 
   • Fixed the ZatBlast sound.
