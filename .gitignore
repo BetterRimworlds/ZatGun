@@ -1,2 +1,4 @@
 .idea/
 Source/ZatGun/obj/
+*.DotSettings.user
+obj/

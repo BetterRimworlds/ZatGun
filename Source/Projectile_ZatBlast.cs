@@ -1,3 +1,16 @@
+/*
+ * This file is part of ZatGun, a Better Rimworlds Project.
+ *
+ * Copyright © 2022-2025 Theodore R. Smith
+ * Author: Theodore R. Smith <hopeseekr@gmail.com>
+ *   GPG Fingerprint: D8EA 6E4D 5952 159D 7759  2BB4 EEB6 CE72 F441 EC41
+ *   https://github.com/BetterRimworlds/ZatGun
+ *
+ * This file is licensed under the MIT License.
+ */
+
+namespace BetterRimworlds.ZatGun;
+
 using System.Collections.Generic;
 using Verse;
 using RimWorld;
